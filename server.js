@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const app = express();
 const PORT = 3000;
-const DOWNLOAD_LIMIT = 20;
+const DOWNLOAD_LIMIT = 50;
 const COUNT_FILE = 'download-count.txt';
 const FEEDBACK_FILE = 'feedback.txt';
 

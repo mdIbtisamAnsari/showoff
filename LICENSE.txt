@@ -1,0 +1,13 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2024. All rights reserved.
+
+This software is provided for personal use only to authorized recipients.
+
+RESTRICTIONS:
+- No redistribution or sharing
+- No modification or reverse engineering
+- No commercial use
+- For personal use only
+
+Unauthorized copying, distribution, or use is strictly prohibited.
